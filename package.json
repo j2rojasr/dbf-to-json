@@ -1,0 +1,24 @@
+{
+  "name": "dbf-to-json",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "lodash": "^4.17.11",
+    "parsedbf": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/j2rojasr/dbf-to-json.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/j2rojasr/dbf-to-json/issues"
+  },
+  "homepage": "https://github.com/j2rojasr/dbf-to-json#readme"
+}
